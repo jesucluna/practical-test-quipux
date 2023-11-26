@@ -1,0 +1,253 @@
+[ {
+  "name" : "Thunder Strikers",
+  "stadium" : "Lightning Arena",
+  "numberOfTitles" : 15,
+  "startingPlayers" : [ {
+    "name" : "John Doe",
+    "position" : "Forward"
+  }, {
+    "name" : "Jane Smith",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Bob Johnson",
+    "position" : "Defender"
+  }, {
+    "name" : "Alice Williams",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Charlie Brown",
+    "position" : "Forward"
+  }, {
+    "name" : "Emma Davis",
+    "position" : "Midfielder"
+  }, {
+    "name" : "David White",
+    "position" : "Defender"
+  }, {
+    "name" : "Olivia Miller",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Michael Taylor",
+    "position" : "Forward"
+  }, {
+    "name" : "Sophia Anderson",
+    "position" : "Defender"
+  }, {
+    "name" : "Matthew Wilson",
+    "position" : "Goalkeeper"
+  } ],
+  "substitutePlayers" : [ {
+    "name" : "Ethan Moore",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Ava Martinez",
+    "position" : "Defender"
+  }, {
+    "name" : "Noah Davis",
+    "position" : "Forward"
+  }, {
+    "name" : "Isabella Brown",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Liam Thomas",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Mia Harris",
+    "position" : "Forward"
+  }, {
+    "name" : "Lucas Garcia",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Sophie Wilson",
+    "position" : "Defender"
+  }, {
+    "name" : "Jackson Smith",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Emily Jones",
+    "position" : "Forward"
+  }, {
+    "name" : "Daniel Lee",
+    "position" : "Defender"
+  }, {
+    "name" : "Chloe Taylor",
+    "position" : "Midfielder"
+  } ]
+}, {
+  "name" : "Eagle United",
+  "stadium" : "Skyview Park",
+  "numberOfTitles" : 8,
+  "startingPlayers" : [ {
+    "name" : "Ryan Johnson",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Sophia Garcia",
+    "position" : "Defender"
+  }, {
+    "name" : "Brandon Davis",
+    "position" : "Forward"
+  }, {
+    "name" : "Ava Robinson",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Elijah White",
+    "position" : "Forward"
+  }, {
+    "name" : "Lily Wilson",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Carter Brown",
+    "position" : "Defender"
+  }, {
+    "name" : "Mia Anderson",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Luke Taylor",
+    "position" : "Forward"
+  }, {
+    "name" : "Emma Smith",
+    "position" : "Defender"
+  }, {
+    "name" : "Jack Miller",
+    "position" : "Goalkeeper"
+  } ],
+  "substitutePlayers" : [ {
+    "name" : "Grace Thomas",
+    "position" : "Forward"
+  }, {
+    "name" : "Logan Martinez",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Aiden Harris",
+    "position" : "Defender"
+  }, {
+    "name" : "Harper Jones",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Ethan Moore",
+    "position" : "Forward"
+  }, {
+    "name" : "Olivia Brown",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Owen Smith",
+    "position" : "Defender"
+  }, {
+    "name" : "Zoe Wilson",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Leo Robinson",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Chloe Davis",
+    "position" : "Defender"
+  }, {
+    "name" : "Noah Taylor",
+    "position" : "Forward"
+  }, {
+    "name" : "Noah Davis",
+    "position" : "Midfielder"
+  } ]
+}, {
+  "name" : "Phoenix Rovers",
+  "stadium" : "Firebird Stadium",
+  "numberOfTitles" : 20,
+  "startingPlayers" : [ {
+    "name" : "Daniel White",
+    "position" : "Forward"
+  }, {
+    "name" : "Ava Davis",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Mia Johnson",
+    "position" : "Defender"
+  }, {
+    "name" : "Noah Brown",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Emily Smith",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Liam Taylor",
+    "position" : "Defender"
+  }, {
+    "name" : "Sophia Robinson",
+    "position" : "Forward"
+  }, {
+    "name" : "Ethan Wilson",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Olivia Harris",
+    "position" : "Forward"
+  }, {
+    "name" : "Carter Martinez",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Grace Miller",
+    "position" : "Defender"
+  } ],
+  "substitutePlayers" : [ {
+    "name" : "Lucas Thomas",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Chloe Jones",
+    "position" : "Defender"
+  }, {
+    "name" : "Jackson Garcia",
+    "position" : "Forward"
+  }, {
+    "name" : "Sophie Anderson",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Logan Smith",
+    "position" : "Forward"
+  }, {
+    "name" : "Zoe Brown",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Elijah Wilson",
+    "position" : "Defender"
+  }, {
+    "name" : "Aiden Taylor",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Harper Davis",
+    "position" : "Forward"
+  }, {
+    "name" : "Leo Harris",
+    "position" : "Defender"
+  }, {
+    "name" : "Emma Wilson",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Emma Taylor",
+    "position" : "Defender"
+  } ]
+}, {
+  "name" : "Leincest United",
+  "stadium" : "Fireproof Arena",
+  "numberOfTitles" : 5,
+  "startingPlayers" : [ {
+    "name" : "Joe Black",
+    "position" : "Goalkeeper"
+  }, {
+    "name" : "Andrew Davis",
+    "position" : "Defender"
+  }, {
+    "name" : "Kelly Johnson",
+    "position" : "Defender"
+  } ],
+  "substitutePlayers" : [ {
+    "name" : "Lucas Thompson",
+    "position" : "Midfielder"
+  }, {
+    "name" : "Milley Jones",
+    "position" : "Defender"
+  }, {
+    "name" : "Marco Garcia",
+    "position" : "Forward"
+  }, {
+    "name" : "Fernando Anderson",
+    "position" : "Goalkeeper"
+  } ]
+} ]
